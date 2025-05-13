@@ -10,9 +10,9 @@ Supporting questions:
  How are investments distributed by project status?
  What correlations exist between loan, equity, and total investment values?
 
-# The dataset used for this project was sourced from the official IFC Disclosure Portal (Global open datasets) encompassing over 6,500 records, link to the Dataset is provided at the end of the document. Key fields to focus on includes information on project names, disclosure dates, locations, industries, statuses, and investment breakdowns (loan, equity, total investment).
+#The dataset used for this project was sourced from the official IFC Disclosure Portal (Global open datasets) encompassing over 6,500 records, link to the Dataset is provided at the end of the document. Key fields to focus on includes information on project names, disclosure dates, locations, industries, statuses, and investment breakdowns (loan, equity, total investment).
 
-# Overall Insights- Some projects are loan-heavy, others equity-focused, and the mix varies by sector and country. This diversity underscores the need for flexible financial strategies to address different development contexts. Overall IFC’s investment portfolio has grown steadily, adapting to global economic shifts and development needs.
+#Overall Insights- Some projects are loan-heavy, others equity-focused, and the mix varies by sector and country. This diversity underscores the need for flexible financial strategies to address different development contexts. Overall IFC’s investment portfolio has grown steadily, adapting to global economic shifts and development needs.
 1. Strategic Priorities: IFC’s investment strategy is characterized by a strong focus on financial institutions and key emerging markets. The diversity in investment structures (loan-heavy vs. equity-focused) reflects the need to tailor financial solutions to different development contexts.
 2. Growth and Resilience: The upward trend in total investments over the decade, with only minor dips during global disruptions, signals IFC’s expanding role and adaptability in supporting development across regions and sectors.
 3. Actionable Intelligence: The dashboard allows stakeholders to quickly identify where resources are concentrated, which sectors and countries are prioritized, and how investment structures vary, supporting data-driven decision-making for future initiatives.
